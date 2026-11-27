@@ -4,7 +4,7 @@
 **A FinTech case study on when a plain chat is enough and when a business needs a system prompt.**
 
 
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · [Month Year]
+Author: Diksha Aggarwal · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT] · 2026
 
 
 ## The case
